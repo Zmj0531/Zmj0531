@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello World!🤔
+👋 Hi, I’m @Zmj0531
 
-<!--
-**Zmj0531/Zmj0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 &nbsp; I am a high school student 
+
+📧 &nbsp; Reach me at 2726783412@qq.com
+
+📫 &nbsp; The same name on social networks: Zmj0531
+
+🌱 &nbsp; I’m currently learning Python, JavaScript and HTML
+
+❤️ &nbsp; I love anime, games and public transit
+
+🎧 &nbsp; This is my Spotify playlist [Go](https://open.spotify.com/playlist/6SzPyb3vO9cmjZEpozj7En?si=803a98389fe84639)
+
+🎧 &nbsp; This is my Netease Music playlist [Go](https://music.163.com/playlist?id=7411498960&userid=1346956236)
+
+***
