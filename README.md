@@ -1,8 +1,8 @@
 ### Hello World!🤔
 👋 Hi, I’m @Zmj0531
 
-<img align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#ffcc66&bg_color=dddddd&hide_title=true&border_color=ffcc66" />
-<img align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmj0531&hide_title=true&show_icons=true&text_color=#ffcc66&bg_color=dddddd&hide_title=true&border_color=ffcc66" /> </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
 
 ***
 
