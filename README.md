@@ -7,11 +7,12 @@
 
 👨🏻‍💻 &nbsp; I am a high school student 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
+
 📧 &nbsp; Reach me at 2726783412@qq.com
 
 📫 &nbsp; The same name on social networks: Zmj0531
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
 
