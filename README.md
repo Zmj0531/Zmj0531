@@ -20,6 +20,4 @@
 
 🎧 &nbsp; This is my Netease Music playlist [Go](https://music.163.com/playlist?id=7411498960&userid=1346956236)
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
-
-***
+*** <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
