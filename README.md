@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&text_color=#343434&bg_color=ffffff&hide_title=true&border_color=2f80ed" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zmj0531&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
 
 # Thamj (Zmj0531) 🔭
 
@@ -6,9 +6,10 @@
 
 👋 Hi, I’m @Zmj0531
 
-💬 a.k.a. Mike Zhang, MinJia Zhang.
-> ⚡ A cat who is passionate about computer technologies, open-source, artificial intelligence, convenience, etc.
-> IP Belongs: Shanghai
+💬 a.k.a. Mike Zhang, MinJia Zhang.  
+> ⚡ An otaku who is passionate about computer technologies, artificial intelligence, etc.  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zmj0531&hide_border=true&title_color=000&layout=compact">
 
 
 ℹ️ Chinese / 17 y.o. / High School Student
