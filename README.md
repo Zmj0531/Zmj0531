@@ -7,17 +7,24 @@
 👋 Hi, I’m @Zmj0531
 
 💬 a.k.a. Mike Zhang, MinJia Zhang.  
+
 > ⚡ An otaku who is passionate about computer technologies, artificial intelligence, etc.  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zmj0531&hide_border=true&title_color=000&layout=compact">
 
 
-ℹ️ Chinese / 17 y.o. / High School Student
+ℹ️ Chinese / 17 y.o. / High School Student  
+
 🌍 zh-CN / en-US
+
 👨🏻‍💻 Amatuer Programmer / Developer
+
 🌱 Learning Python, JavaScript and HTML
+
 💖 Anime / Sandbox / Racing Games Lover
+
 💖 Public Transit Fan
+
 🎧 My Spotify Playlist [Go](https://open.spotify.com/playlist/6SzPyb3vO9cmjZEpozj7En?si=803a98389fe84639)
 
 
@@ -96,5 +103,8 @@
 ### Desktop
 
 ASUS B550M PC: TUF B550M+ / AMD R5-3600X / Radeon RX590 / 32GB DDR4 / Windows 11 Pro Workstation
+
 ASUS M5A97 PC: ASUS M5A97 / AMD FX8120 / Quadro 2000 / 16GB DDR3 / Windows 10 Pro
+
 ASUS F1A75 PC: ASUS F1A75 / AMD A6-3650 / Radeon HD7850 / 8GB DDR3 / Windows 10 Pro
+
