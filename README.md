@@ -21,7 +21,7 @@
 
 🌱 Learning Python, C++ and HTML
 
-💖 ACGN Lover
+💖 ACGN Enthusiast
 
 🎧 My Spotify Playlist [Go](https://open.spotify.com/playlist/6SzPyb3vO9cmjZEpozj7En?si=803a98389fe84639)
 
@@ -71,11 +71,8 @@
 
 ### Laptop
 
-![DELL Latitude 12 7280](https://img.shields.io/badge/DELL%20Latitude%2012%207280-5e5e5e?style=flat-square&logo=dell&logoColor=ffffff)
-![ASUS TX Gaming 6 Pro](https://img.shields.io/badge/DELL%20Latitude%2012%207280-5e5e5e?style=flat-square&logo=dell&logoColor=ffffff)
-
+ASUS TX GAMING 6 Pro：AMD R9-9955HX / RTX 5070 / 32GB DDR5
 
 ### Desktop
 
-ROG B550-A / AMD R7-5700X / Radeon RX 7800 XT / 32GB DDR4 / Windows 11 Pro Workstation
-
+ASUS ROG B550-A PC：AMD R7-5700X / RX 7800 XT / 32GB DDR4
