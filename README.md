@@ -28,12 +28,10 @@
 
 ## 🌱 Programming Languages
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![Batchfile](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-3776ab?style=flat-square&logo=c&logoColor=fff)
 
 
 ## 💻 Working Environment
